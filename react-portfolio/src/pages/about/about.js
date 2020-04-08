@@ -1,9 +1,9 @@
 import React from "react";
-import Container from "../components/Container";
-import Row from "../components/Row";
-import Col from "../components/Col";
+import Col from "../../components/Col/index";
+import Row from "../../components/Row/index";
+import Container from "../../components/Container/index";
 import "./about.css";
-import image from "../imgs/profilepic.png";
+import image from "../../imgs/profilepic.png";
 
 function About() {
   return (
@@ -11,15 +11,15 @@ function About() {
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h1>Justin Kellogg - About Me</h1>
+            <h1 className="about">Justin Kellogg - About Me</h1>
           </Col>
         </Row>
-        <Row className="bio">
+        <Row className="about">
           <Col size="md-12">
             <Row className="image">
               <img src={image} alt="profile picture" />
             </Row>
-            <h1>Introduction</h1>
+            <h1>Introduction:</h1>
             <p>
               My name is Justin Kellogg. I'm a 31 year old husband and father.
               My wife and I have been married for 6 years, but we have been
