@@ -10,12 +10,11 @@ function About() {
     <div>
       <Container style={{ marginTop: 30 }}>
         <Row>
-          <Col size="md-12">
-            <h1 className="about">Justin Kellogg - About Me</h1>
-          </Col>
+          <Col size="md-12"></Col>
         </Row>
         <Row className="about">
           <Col size="md-12">
+            <h1 className="about">Justin Kellogg - About Me</h1>
             <Row className="image">
               <img src={image} alt="profile picture" />
             </Row>

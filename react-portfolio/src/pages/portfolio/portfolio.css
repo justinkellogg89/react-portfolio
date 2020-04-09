@@ -1,3 +1,16 @@
 .portfolioPage {
   text-align: center;
+  background-color: lightblue;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.projectCard {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.cardSize {
+  height: auto;
+  padding: 25px;
 }

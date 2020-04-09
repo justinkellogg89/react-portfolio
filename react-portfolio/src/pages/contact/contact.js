@@ -33,6 +33,16 @@ function Contact() {
             </a>
           </Col>
         </Row>
+        <Row>
+          <Col size="md-12">
+            <a
+              className="resume"
+              href="https://1drv.ms/w/s!AkfdEh79vXAk3lJ76cShUSicmDRM?e=2gDm9c"
+            >
+              My Résumé
+            </a>
+          </Col>
+        </Row>
       </Container>
     </div>
   );
