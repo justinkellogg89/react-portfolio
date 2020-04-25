@@ -48,7 +48,7 @@ function Portfolio() {
               <Card.Title>Wild Kards</Card.Title>
               <Card.Text>
                 Application that stores user's favorite quotes from the nation's
-                most intriguing familiy; the Kardashians.
+                most intriguing family; the Kardashians.
               </Card.Text>
               <Button
                 href="https://github.com/justinkellogg89/project2"
