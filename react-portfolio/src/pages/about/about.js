@@ -51,8 +51,8 @@ function About() {
               years in time spent. Along my journey I decided to return to
               school in 2017, and I am scheduled to graduate at the end of 2020
               with a bachelor's degree in computer information systems.
-              Additionally I am scheduled to graduate from the University of
-              Arizona Web Development Boot Camp on April 20th, 2020.
+              I am also a graduate of the University of Arizona Web Development Boocamp where I learned full-stack development.
+              <iframe frameborder="0" scrolling="no" src="https://arizona.credly.com/embed.html#/?member_badge_id=23348141" width="180" height="230"></iframe>
             </p>
             <h1>My future:</h1>
             <p>
